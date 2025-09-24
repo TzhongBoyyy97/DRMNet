@@ -8,7 +8,9 @@ We introduce the RADA module further to align pulmonary nodule features from dif
 
 We construct a domain generalization dataset GPND for pulmonary nodule detection. It contains two private datasets and two public datasets. 
 
-[fig2.pdf](https://github.com/user-attachments/files/22509268/fig2.pdf)
+<img width="1740" height="850" alt="fig1" src="https://github.com/user-attachments/assets/3d475673-bd4e-40e2-97c5-ff89edf96d34" />
+
+<img width="1593" height="862" alt="fig2" src="https://github.com/user-attachments/assets/ea7675e8-004e-4b0f-90c5-7e2c6bd2e6fb" />
 
 
 This code and our data are licensed for non-commerical research purpose only.
