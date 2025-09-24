@@ -1,8 +1,8 @@
 # Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba
 
-This paper has been accepted by MICCAI 2025. And our code is based on [SANet](https://github.com/mj129/SANet), [NoduleNet](https://github.com/uci-cbcl/NoduleNet), and [SGDA](https://github.com/Ruixxxx/SGDA).
+This paper has been accepted for presentation at MICCAI 2025. And our code is based on [SANet](https://github.com/mj129/SANet), [NoduleNet](https://github.com/uci-cbcl/NoduleNet), and [SGDA](https://github.com/Ruixxxx/SGDA).
 
-This code are licensed for non-commercial research purposes only.
+This code is licensed for non-commercial research purposes only.
 
 ## Contributions
 
