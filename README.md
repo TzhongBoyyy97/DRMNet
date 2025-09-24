@@ -1,10 +1,10 @@
 # Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba
 
+This paper has been accepted by MICCAI 2025. And our code is based on [SANet](https://github.com/mj129/SANet), [NoduleNet](https://github.com/uci-cbcl/NoduleNet), and [SGDA](https://github.com/Ruixxxx/SGDA).
+
 This code are licensed for non-commercial research purposes only.
 
 ## Contributions
-
-This paper has been accepted by MICCAI 2025. And our code is based on [SANet](https://github.com/mj129/SANet), [NoduleNet](https://github.com/uci-cbcl/NoduleNet), and [SGDA](https://github.com/Ruixxxx/SGDA).
 
 We propose the FASS module to incorporate global features by leveraging the spatial relationship between pulmonary nodules and vascular structures to integrate global features. 
 
@@ -23,3 +23,6 @@ An overview of the proposed DRMNet. DRMNet is an end-to-end neural network with 
 
 ## Citations
 If you are using the code/model/data provided here in a publication, please consider citing
+
+## Contact
+For any questions, please contact me via e-mail: lantianzhong1@stu.scu.edu.cn.
